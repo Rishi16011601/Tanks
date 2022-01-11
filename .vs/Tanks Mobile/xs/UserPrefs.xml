@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{25BF8F26-B8B4-8BE9-FB7C-2DEDE9C0E486}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pack/Scripts/Managers/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Pack/Scripts/Managers/GameManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tanks Mobile" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Pack" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Managers" expanded="True">
+                    <Node name="GameManager.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="27a1b52d-9f7d-40f8-a338-a2c1f712269a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
